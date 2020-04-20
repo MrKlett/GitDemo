@@ -1,18 +1,18 @@
 .one{
-	background-color:green;
+	background-color:blue;
 	height:700px;
 	width:33%;
 	float:left;
 }
 .two{
-	background-color:yellow;
+	background-color:green;
 	height:700px;
 	width:33%;
 	float:left;
 }
 
 .three{
-	background-color:orange;
+	background-color:black;
 	height:700px;
 	width:33%;
 	float:left;
