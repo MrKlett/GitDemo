@@ -1,15 +1,19 @@
-.square{
+.one{
 	background-color:red;
-	height:55px;
-	width:55px;
+	height:700px;
+	width:33%;
+	float:left;
 }
-.square2{
-	background-color:red;
-	height:55px;
-	width:155px;
+.two{
+	background-color:white;
+	height:700px;
+	width:33%;
+	float:left;
 }
-.square3{
-	background-color:red;
-	height:55px;
-	width:155px;
+
+.three{
+	background-color:blue;
+	height:700px;
+	width:33%;
+	float:left;
 }
